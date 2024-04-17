@@ -1,6 +1,6 @@
-# Signature Similarity Detection using ResNet101
+# Signature Similarity Detection using ResNet-101
 
-This Python script utilizes the ResNet101 architecture for signature similarity detection. Given two binary images of signatures, it computes their feature vectors using the ResNet101 model and measures the cosine similarity between them to determine whether they match or not based on a given threshold.
+This Python script utilizes the ResNet-101 architecture for signature similarity detection. Given two binary images of signatures, it computes their feature vectors using the ResNet-101 model and measures the cosine similarity between them to determine whether they match or not based on a given threshold.
 
 ## Dependencies
 
